@@ -12,7 +12,7 @@ python-dateutil==1.5
 pytz==2017.2
 requests==2.18.4
 simplejson==3.11.1
-urllib3==1.22
+urllib3==1.26.5
 whitenoise==3.3.0
 yahoo-finance==1.4.0
 psycopg2==2.7.1
